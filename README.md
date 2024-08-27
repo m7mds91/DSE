@@ -27,3 +27,7 @@ FAISS: A library for efficient similarity search, used for indexing and searchin
 Sentence Transformers: Pre-trained models from the sentence-transformers library are used for generating semantic embeddings.
 PyMuPDF (fitz): Used for extracting text from PDF files.
 python-docx: Used for extracting text from DOC and DOCX files.
+
+Access the application:
+
+Open your web browser and navigate to http://127.0.0.1:5000/.
