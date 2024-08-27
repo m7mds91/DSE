@@ -13,7 +13,7 @@ app = Flask(__name__)
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Step 2: Specify the Folder Path Containing the Documents
-folder_path = "C:\\Users\\Administrator\\Desktop\\R&D"  # Update this path to the folder containing your files
+folder_path = "enter your path folder"  # Update this path to the folder containing your files & don't forget to add "\\" not"\"
 
 # Step 3: Function to extract text from files
 def extract_text_from_file(file_path):
