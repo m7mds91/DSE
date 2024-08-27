@@ -28,6 +28,8 @@ Sentence Transformers: Pre-trained models from the sentence-transformers library
 PyMuPDF (fitz): Used for extracting text from PDF files.
 python-docx: Used for extracting text from DOC and DOCX files.
 
-Access the application:
+To Start
 
-Open your web browser and navigate to http://127.0.0.1:5000/.
+- open DSE.py 
+
+- Access the application by Open your web browser and navigate to http://127.0.0.1:5000/.
